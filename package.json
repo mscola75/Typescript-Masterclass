@@ -1,0 +1,29 @@
+{
+  "name": "typescript-masterclass",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mscola75/Typescript-Masterclass.git"
+  },
+  "keywords": [
+    "(typescript",
+    "web",
+    "app",
+    "project",
+    "node)"
+  ],
+  "author": "Massimo Scola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mscola75/Typescript-Masterclass/issues"
+  },
+  "homepage": "https://github.com/mscola75/Typescript-Masterclass#readme",
+  "description": "",
+  "devDependencies": {
+    "typescript": "^5.5.3"
+  }
+}
